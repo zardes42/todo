@@ -1,0 +1,26 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+ 
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.container{
+  display:flex ; 
+  flex-direction: column ;
+  align-items: center ;
+  padding:20px ;
+
+}
+.header{
+  color : rgba(119, 119, 119, 0.319) ; 
+  font-size: 4rem;
+  font-weight: 600;
+  text-align: center;
+  padding : 30px 0 ;
+}
+
+.input-field{
+  width: inherit;
+  display: flex;
+}
